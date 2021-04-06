@@ -1,6 +1,6 @@
 ---
 title: Fragments of Iceland
-excerpt: "I hope one day i can travel the world and get out\_ to t"
+excerpt: I hope that one day I can travel around the earth and fly out of the earth.
 date: '2019-03-27'
 thumb_img_path: images/3.jpg
 thumb_img_alt: Icelandic horses
