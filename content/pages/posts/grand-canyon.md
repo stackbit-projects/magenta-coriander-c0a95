@@ -1,10 +1,6 @@
 ---
 title: some day in the beach
-excerpt: >-
-  The Grand Canyon is a steep-sided canyon carved by the Colorado River in
-  Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18
-  miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857
-  meters).
+excerpt: 'This is very impressive day, i am in the beach with some friends.'
 date: '2019-03-10'
 thumb_img_path: images/4.jpg
 thumb_img_alt: Hikers on the trail
