@@ -1,6 +1,6 @@
 ---
 title: Travel - tibet
-excerpt: 'If you wanna go some place ,don''t hasitate'
+excerpt: 'If you wanna go some place ,don''t hasitate.'
 date: '2019-03-24'
 thumb_img_path: images/8.jpg
 thumb_img_alt: Fushimi Inari Shrine in Kyoto
