@@ -1,6 +1,6 @@
 ---
 title: Fragments of Iceland
-excerpt: i wanna go to trip one day
+excerpt: "I hope one day i can travel the world and get out\_ to t"
 date: '2019-03-27'
 thumb_img_path: images/3.jpg
 thumb_img_alt: Icelandic horses
